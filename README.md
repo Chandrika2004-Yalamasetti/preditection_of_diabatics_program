@@ -1,4 +1,5 @@
-# Prediabetes Detection Using AI
+# linkedin : https://www.linkedin.com/in/chandrika-yalamaseeti-ba08b5242
+# Prediabetes Detection
 
 This project uses machine learning models (XGBoost + KNN) to detect **prediabetes** using **non-laboratory health data**.
 
